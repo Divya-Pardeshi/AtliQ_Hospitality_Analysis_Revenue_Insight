@@ -25,7 +25,7 @@ This file contains all the meta information regarding the columns described in t
 ### Provided Mock-up Dashboard
 ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/7012534e-8f16-4b45-8972-827b6111c27c)
 
-### Approach
+### Approach & Methodolgoy
 For solving the above problem statement, I created different views within the Report:
  
 ### Home Page  
@@ -55,7 +55,7 @@ To analyze overall performance metrics and key financial indicators
 
 ### Data Model
 <p align="center">
-    <img src='https://github.com/Divya-Pardeshi/AtliQ_Hospitality_Analysis_Revenue_Insight/blob/main/Data%20Model.jpg' height="400">
+    <img src='https://github.com/Divya-Pardeshi/AtliQ_Hospitality_Analysis_Revenue_Insight/blob/main/Images/Data%20Model.jpg' height="400">
 </p>
 
 ## Tools Used
